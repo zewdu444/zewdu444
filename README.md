@@ -6,7 +6,7 @@
 ---
 
 	
-- 🎓 I have a **BSc in Electrical and Computer Engineering (specialized in Computer)** from Addis ababa university 🇪🇹
+- 🎓 I have a **BSc degree in Electrical and Computer Engineering (specialized in Computer)** from Addis ababa university 🇪🇹
 
 - 🌱 I'm currently enrolled in Microverse and studying to become a full stack web developer.
 
