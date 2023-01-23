@@ -1,5 +1,17 @@
-# 💫 About Me:
-👯 I’m looking to collaborate on full stack web development project<br>🌱 I’m currently learning in microverse boot camp<br>💬📫 How to reach me:<br>      • zewdu444@gmail.com
+<h1 align="center"> Hello 👋, I'm Zewdu</h1>
+<h3 align="center">Enthusiast on full-stack web development and data science</h3>
+
+<p align="center">I have a great passion for learning languages, frameworks and new technologies.</p>
+
+---
+
+	
+- 🎓 I have a **BSc in Electrical and Computer Engineering (specialized in Computer)** from Addis ababa university 🇪🇹
+
+- 🌱 I'm currently enrolled in Microverse and studying to become a full stack web developer.
+
+- 💻 All **my projects** are available [here.](https://github.com/zewdu444?tab=repositories)
+- 🔤 I am looking for opportunities to work on full stack web development projects.
 
 
 ## 🌐 Socials:
