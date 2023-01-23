@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on full stack web development project<br>🌱 I’m currently learning in microverse<br>💬📫 How to reach me:<br>      • zewdu444@gmail.com
+👯 I’m looking to collaborate on full stack web development project<br>🌱 I’m currently learning in microverse boot camp<br>💬📫 How to reach me:<br>      • zewdu444@gmail.com
 
 
 ## 🌐 Socials:
