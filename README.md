@@ -1,17 +1,18 @@
 <h1 align="center"> Hello 👋, I'm Zewdu</h1>
 <h3 align="center">Enthusiast on full-stack web development and data science</h3>
 
-<p align="center">I have a great passion for learning languages, frameworks and new technologies.</p>
+<p align="center">I have a great passion for learning languages, frameworks, and new technologies.</p>
 
 ---
 
 	
-- 🎓 I have a **BSc degree in Electrical and Computer Engineering (specialized in Computer)** from Addis ababa university 🇪🇹
+- 🎓 I have a **BSc degree in Electrical and Computer Engineering (specialized in Computer)** from Addis Ababa University 🇪🇹
 
-- 🌱 I'm currently enrolled in Microverse and studying to become a full stack web developer.
+- 🌱 I have gained experience working with Ruby on Rails, React, and Postgres SQL while collaborating with others, both individually and in groups, on the remote learning 
+    platform known as Microverse.
+ - 🔤 I am looking for opportunities to work on full-stack web development projects.
+- 🚀 All **my projects** are available [here.](https://github.com/zewdu444?tab=repositories)
 
-- 💻 All **my projects** are available [here.](https://github.com/zewdu444?tab=repositories)
-- 🔤 I am looking for opportunities to work on full stack web development projects.
 
 
 ## 🌐 Socials:
